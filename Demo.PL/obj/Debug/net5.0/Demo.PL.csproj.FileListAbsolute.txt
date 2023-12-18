@@ -1,0 +1,370 @@
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\obj\Debug\net5.0\Demo.PL.csproj.AssemblyReference.cache
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\obj\Debug\net5.0\Demo.PL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\obj\Debug\net5.0\Demo.PL.AssemblyInfoInputs.cache
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\obj\Debug\net5.0\Demo.PL.AssemblyInfo.cs
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\obj\Debug\net5.0\Demo.PL.csproj.CoreCompileInputs.cache
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\obj\Debug\net5.0\Demo.PL.MvcApplicationPartsAssemblyInfo.cache
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\obj\Debug\net5.0\Demo.PL.RazorAssemblyInfo.cache
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\obj\Debug\net5.0\Demo.PL.RazorAssemblyInfo.cs
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\appsettings.Development.json
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\appsettings.json
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\Demo.PL.exe
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\Demo.PL.deps.json
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\Demo.PL.runtimeconfig.json
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\Demo.PL.runtimeconfig.dev.json
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\Demo.PL.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\Demo.PL.pdb
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\Demo.PL.Views.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\Demo.PL.Views.pdb
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\Humanizer.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\Demo.BLL.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\Demo.DAL.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\Demo.BLL.pdb
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\Demo.DAL.pdb
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\obj\Debug\net5.0\scopedcss\bundle\Demo.PL.styles.css
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\obj\Debug\net5.0\staticwebassets\Demo.PL.StaticWebAssets.Manifest.cache
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\obj\Debug\net5.0\staticwebassets\Demo.PL.StaticWebAssets.Pack.cache
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\obj\Debug\net5.0\staticwebassets\msbuild.Demo.PL.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\obj\Debug\net5.0\staticwebassets\msbuild.build.Demo.PL.props
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Demo.PL.props
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Demo.PL.props
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\obj\Debug\net5.0\Demo.PL.TagHelpers.input.cache
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\obj\Debug\net5.0\Demo.PL.TagHelpers.output.cache
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\obj\Debug\net5.0\Demo.PL.RazorCoreGenerate.cache
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\obj\Debug\net5.0\Demo.PL.RazorTargetAssemblyInfo.cache
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\obj\Debug\net5.0\Demo.PL.RazorTargetAssemblyInfo.cs
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\obj\Debug\net5.0\Demo.PL.Views.pdb
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\obj\Debug\net5.0\Demo.PL.csproj.CopyComplete
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\obj\Debug\net5.0\Demo.PL.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\obj\Debug\net5.0\refint\Demo.PL.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\obj\Debug\net5.0\Demo.PL.pdb
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\obj\Debug\net5.0\Demo.PL.genruntimeconfig.cache
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\obj\Debug\net5.0\ref\Demo.PL.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\obj\Debug\net5.0\Razor\Views\Department\Index.cshtml.g.cs
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\obj\Debug\net5.0\Razor\Views\Department\Create.cshtml.g.cs
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\obj\Debug\net5.0\Razor\Views\Department\Details.cshtml.g.cs
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\obj\Debug\net5.0\Razor\Views\Department\Edit.cshtml.g.cs
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\obj\Debug\net5.0\Razor\Views\Department\Delete.cshtml.g.cs
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\obj\Debug\net5.0\Razor\Views\Employee\Create.cshtml.g.cs
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\obj\Debug\net5.0\Razor\Views\Employee\Delete.cshtml.g.cs
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\obj\Debug\net5.0\Razor\Views\Employee\Details.cshtml.g.cs
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\obj\Debug\net5.0\Razor\Views\Employee\Edit.cshtml.g.cs
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\obj\Debug\net5.0\Razor\Views\Employee\Index.cshtml.g.cs
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\obj\Debug\net5.0\Razor\Views\Shared\_ButtonsPartialView.cshtml.g.cs
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\obj\Debug\net5.0\Razor\Views\Employee\PartialView\CreateEditEmpolyeePartialView.cshtml.g.cs
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\obj\Debug\net5.0\Razor\Views\Department\PartialView\CreateEditDepartmentPartialView.cshtml.g.cs
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\obj\Debug\net5.0\Razor\Views\Department\PartialView\DetailsDeleteDepartmentView.cshtml.g.cs
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\obj\Debug\net5.0\Razor\Views\Employee\PartialView\DetailsDeleteEmployeeView.cshtml.g.cs
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\AutoMapper.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\obj\Debug\net5.0\Razor\Views\Shared\_AuthLayout.cshtml.g.cs
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\obj\Debug\net5.0\Razor\Views\Account\ForgetPassword.cshtml.g.cs
+D:\Courses\Computer Science\.Net\Projects\Company Management System\Demo.PL\obj\Debug\net5.0\Razor\Views\Account\CheckYourInbox.cshtml.g.cs
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\appsettings.Development.json
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\appsettings.json
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\Demo.PL.exe
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\Demo.PL.deps.json
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\Demo.PL.runtimeconfig.json
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\Demo.PL.runtimeconfig.dev.json
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\Demo.PL.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\Demo.PL.pdb
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\Demo.PL.Views.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\Demo.PL.Views.pdb
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\AutoMapper.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\Humanizer.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\Demo.BLL.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\Demo.DAL.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\Demo.BLL.pdb
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\bin\Debug\net5.0\Demo.DAL.pdb
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\obj\Debug\net5.0\Demo.PL.csproj.AssemblyReference.cache
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\obj\Debug\net5.0\Demo.PL.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\obj\Debug\net5.0\Demo.PL.AssemblyInfoInputs.cache
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\obj\Debug\net5.0\Demo.PL.AssemblyInfo.cs
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\obj\Debug\net5.0\Demo.PL.csproj.CoreCompileInputs.cache
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\obj\Debug\net5.0\Demo.PL.MvcApplicationPartsAssemblyInfo.cache
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\obj\Debug\net5.0\Demo.PL.RazorAssemblyInfo.cache
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\obj\Debug\net5.0\Demo.PL.RazorAssemblyInfo.cs
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\obj\Debug\net5.0\scopedcss\bundle\Demo.PL.styles.css
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\obj\Debug\net5.0\staticwebassets\Demo.PL.StaticWebAssets.Manifest.cache
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\obj\Debug\net5.0\staticwebassets\Demo.PL.StaticWebAssets.Pack.cache
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\obj\Debug\net5.0\staticwebassets\msbuild.Demo.PL.Microsoft.AspNetCore.StaticWebAssets.props
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\obj\Debug\net5.0\staticwebassets\msbuild.build.Demo.PL.props
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Demo.PL.props
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Demo.PL.props
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\obj\Debug\net5.0\Demo.PL.TagHelpers.input.cache
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\obj\Debug\net5.0\Demo.PL.TagHelpers.output.cache
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\obj\Debug\net5.0\Demo.PL.RazorCoreGenerate.cache
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\obj\Debug\net5.0\Razor\Views\Account\CheckYourInbox.cshtml.g.cs
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\obj\Debug\net5.0\Razor\Views\Account\ForgetPassword.cshtml.g.cs
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\obj\Debug\net5.0\Razor\Views\Department\Create.cshtml.g.cs
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\obj\Debug\net5.0\Razor\Views\Department\Delete.cshtml.g.cs
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\obj\Debug\net5.0\Razor\Views\Department\Details.cshtml.g.cs
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\obj\Debug\net5.0\Razor\Views\Department\Edit.cshtml.g.cs
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\obj\Debug\net5.0\Razor\Views\Department\Index.cshtml.g.cs
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\obj\Debug\net5.0\Razor\Views\Department\PartialView\CreateEditDepartmentPartialView.cshtml.g.cs
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\obj\Debug\net5.0\Razor\Views\Department\PartialView\DetailsDeleteDepartmentView.cshtml.g.cs
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\obj\Debug\net5.0\Razor\Views\Employee\Create.cshtml.g.cs
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\obj\Debug\net5.0\Razor\Views\Employee\Delete.cshtml.g.cs
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\obj\Debug\net5.0\Razor\Views\Employee\Details.cshtml.g.cs
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\obj\Debug\net5.0\Razor\Views\Employee\Edit.cshtml.g.cs
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\obj\Debug\net5.0\Razor\Views\Employee\Index.cshtml.g.cs
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\obj\Debug\net5.0\Razor\Views\Employee\PartialView\CreateEditEmpolyeePartialView.cshtml.g.cs
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\obj\Debug\net5.0\Razor\Views\Employee\PartialView\DetailsDeleteEmployeeView.cshtml.g.cs
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\obj\Debug\net5.0\Razor\Views\Shared\_AuthLayout.cshtml.g.cs
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\obj\Debug\net5.0\Razor\Views\Shared\_ButtonsPartialView.cshtml.g.cs
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\obj\Debug\net5.0\Demo.PL.RazorTargetAssemblyInfo.cache
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\obj\Debug\net5.0\Demo.PL.RazorTargetAssemblyInfo.cs
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\obj\Debug\net5.0\Demo.PL.Views.pdb
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\obj\Debug\net5.0\Demo.PL.csproj.CopyComplete
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\obj\Debug\net5.0\Demo.PL.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\obj\Debug\net5.0\refint\Demo.PL.dll
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\obj\Debug\net5.0\Demo.PL.pdb
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\obj\Debug\net5.0\Demo.PL.genruntimeconfig.cache
+D:\.NET Projects\Company-Management-System-ASP.NET-MVC-master\Company-Management-System-ASP.NET-MVC-master\Demo.PL\obj\Debug\net5.0\ref\Demo.PL.dll
